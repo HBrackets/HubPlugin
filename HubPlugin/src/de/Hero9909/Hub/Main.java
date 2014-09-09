@@ -9,5 +9,11 @@ public class Main extends JavaPlugin{
 		// TODO Auto-generated method stub
 		super.onEnable();
 	}
+	
+	@Override
+	public void onDisable() {
+		// TODO Auto-generated method stub
+		super.onDisable();
+	}
 
 }
